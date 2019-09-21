@@ -1,0 +1,9 @@
+Logo Social media : fb    = "www.facebook.com"
+		    twit  = "www.twitter.com"
+		    gmail = "www.gmail.com"
+		    in    = "www.linkedin.com"
+
+Background : kimi no na wa = "https://static.tumblr.com/cafe9ca9f32f752bff736fe91b0e7e84/6dlx3cn/359op76ti/tumblr_static_6viamnqwh4g8so804w0g44csk.jpg"
+
+
+web : "https://luthfinuganteng.000webhostapp.com"
